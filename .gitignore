@@ -1,0 +1,4 @@
+.omc/
+matWork
+*.o
+.DS_Store
