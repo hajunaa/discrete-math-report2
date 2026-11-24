@@ -12,8 +12,8 @@
 ## 실행 방법
 
 ```bash
-g++ -std=c++11 -o marWork marWork.cpp
-./marWork
+g++ -std=c++11 -o matWork matWork.cpp
+./matWork
 ```
 
 ## 구성 조건과 함수
